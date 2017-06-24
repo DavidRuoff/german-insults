@@ -1,0 +1,7 @@
+{
+  "name": "german-insults",
+  "version": "0.1.0",
+  "main": "src/index.js",
+  "author": "Birger Naß <birgernass@posteo.net>",
+  "license": "MIT"
+}
